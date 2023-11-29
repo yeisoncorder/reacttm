@@ -1,0 +1,22 @@
+.card {
+    background-color: #077fa3;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(39, 30, 30, 0.1);
+    width: 300px;
+    color: black;
+    
+  }
+  .container {
+    display: flex;
+    justify-content: center;
+    margin-top: 5%;
+  }
+  .card h3 {
+    font-size: 18px;
+    margin-bottom: 5px;
+  }
+  
+  .card p {
+    font-size: 14px;
+  }

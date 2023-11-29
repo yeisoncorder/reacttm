@@ -1,0 +1,19 @@
+footer  {
+    background-color: #f2f2f2;
+    padding: 20px;
+    margin-top: 50%;
+  }
+  
+  img {
+    width: 100px;
+    height: 150px;
+    
+    
+  }
+  
+   footer a {
+    color: #831313;
+    display: flex;
+    justify-content: center;
+    
+  }

@@ -1,0 +1,31 @@
+.switch {
+    width: 60px;
+    height: 30px;
+    background-color: #ccc;
+    border-radius: 15px;
+    cursor: pointer;
+  }
+  
+  .switch--on {
+    background-color: #4caf50;
+  }
+  
+  .switch--off {
+    background-color: #ccc;
+  }
+  
+  .switch__toggle {
+    width: 30px;
+    height: 30px;
+    background-color: #fff;
+    border-radius: 50%;
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  .switch__toggle--on {
+    transform: translateX(30px);
+  }
+  
+  .switch__toggle--off {
+    transform: translateX(0);
+  }

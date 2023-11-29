@@ -1,0 +1,18 @@
+.navbar {
+    background-color: rgb(185, 185, 64);
+    padding: 10px;
+    margin-bottom: 20px;
+  }
+  
+  .navbar-list {
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    gap: 5rem;
+    
+  }
+  
+  .navbar-item {
+    margin-right: 10px;
+    cursor: pointer;
+  }
